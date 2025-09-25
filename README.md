@@ -1,5 +1,13 @@
 # MERN Auth Example
 
+**1. make .env file in backend add piste the below code:
+    PORT=5000
+  **  MONGO_URL=mongodb://localhost:27017/data
+    JWT_SECRET=supersecretkey**
+**2. Install all dependencies -npm install**
+**3. Install dotenv : npm install dotenv**
+**4. to run: npm start**
+
 This project contains a simple MERN-stack example using:
 **This is my code for all the Previous lab and test i have done evryhting collectively and created  a final version of my project**
 - MongoDB (mongoose)
